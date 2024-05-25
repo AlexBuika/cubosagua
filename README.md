@@ -10,4 +10,4 @@ Programa exemple per activitat de Github amb Python
 
 25/05/2024
 
-9:53
+10:10
