@@ -72,7 +72,7 @@ class juegoCubos:
                 print('Gracias por jugar!')
                 sys.exit()
 
-            if move in ('L', 'V', 'M', 'T'):
+            if move in ('L', 'V', 'M', 'C'):
                 return move
 
     def selecCubo(self, mensaje):
