@@ -1,10 +1,13 @@
-# MAFF
+# ABB
 
-CFGS Desenrotllament d'Aplicacions Web
+CFGS Desarrollo de Aplicaciones Multiplataforma
 
-Entorns de Desenrotllament
+Entornos de Desarrollo
 
 ## Programa del joc dels poals
 
 Programa exemple per activitat de Github amb Python
 
+25/05/2024
+
+9:53
